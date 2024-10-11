@@ -16,7 +16,7 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# My Projects
+# 💡 My Projects
 [MTA Financial Performance Data Analysis](https://github.com/SyedAfjal/MTA-Financial-Analysis).<br/>
 [Rossmann Store Sales Analysis](https://github.com/SyedAfjal/DataAnalysis-With-MySQL-Tableau).<br/>
 [Bank Marketing Effectiveness Analysis](https://github.com/SyedAfjal/Bank-Marketing-Effectiveness-Analysis)
