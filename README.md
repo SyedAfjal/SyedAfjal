@@ -2,7 +2,7 @@
 # Hi, I'm Syed!
 👨‍💻 I'm a senior at Stony Brook University studying [Technological Systems Management](https://www.stonybrook.edu/undergraduate-admissions/programs/tsm.php).<br/>
 📊 I'm interested in the field of data science, especially focusing on data analytics and data engineering.<br/>
-🌐 I'm currently learning Full Stack Web Development through [The Odin Project](https://www.theodinproject.com/paths).<br/>
+🌐 I'm currently learning Full Stack Web Development through [The Odin Project](https://www.theodinproject.com/paths)!<br/>
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
