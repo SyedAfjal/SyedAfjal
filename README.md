@@ -5,7 +5,9 @@
 🌐 I'm currently preparing for the CompTIA Security+ certification and gaining hands-on experience by completing cybersecurity labs on [TryHackMe](https://tryhackme.com/r/p/SyedAfjal)!<br/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/SyedAfjal.png" alt="Your Image Badge" />
 
-# 💻 Tech Stack
+## Objective
+
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
