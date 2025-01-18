@@ -7,6 +7,11 @@
 
 ## Objective
 
+## Skills  
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| [1](https://github.com/SyedAfjal/DataAnalysis-With-MySQL-Tableau) - SQL | `Advanced Excel`, `Data Visualization (Tableau)`, `Data Cleaning & Preparation`, `Reporting & Presentation`|
+
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
