@@ -6,6 +6,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/SyedAfjal.png" alt="Your Image Badge" />
 
 ## Skills  
+I have listed my projects along with the skills and knowledge gained from each. Click on the numbered hyperlink to explore the detailed breakdown of projects across various domains.
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
 | [1](https://github.com/SyedAfjal/DataAnalysis-With-MySQL-Tableau) - SQL | `Advanced Excel`, `Data Visualization (Tableau)`, `Data Cleaning & Preparation`, `Reporting & Presentation`|
