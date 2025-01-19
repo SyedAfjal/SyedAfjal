@@ -5,8 +5,6 @@
 🔐 I'm currently preparing for the CompTIA Security+ certification and gaining hands-on experience by completing cybersecurity labs on [TryHackMe](https://tryhackme.com/r/p/SyedAfjal)!<br/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/SyedAfjal.png" alt="Your Image Badge" />
 
-## Objective
-
 ## Skills  
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
