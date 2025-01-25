@@ -10,6 +10,7 @@ I have listed my projects along with the skills and knowledge gained from each. 
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
 | [1](https://github.com/SyedAfjal/DataAnalysis-With-MySQL-Tableau) - SQL | `Advanced Excel`, `Data Visualization (Tableau)`, `Data Cleaning & Preparation`, `Reporting & Presentation`|
+| [2](https://github.com/SyedAfjal/Python-Data-Analysis) - Python | `Pandas`, `NumPy`, `Matplotlib & Seaborn`, `API Requests (requests library)` , `Data Aggregation`|
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
