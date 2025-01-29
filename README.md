@@ -11,6 +11,7 @@ I have listed my projects along with the skills and knowledge gained from each. 
 | :--- |:---:|
 | [1](https://github.com/SyedAfjal/DataAnalysis-With-MySQL-Tableau) - SQL | `Advanced Excel`, `Data Visualization (Tableau)`, `Data Cleaning & Preparation`, `Reporting & Presentation`|
 | [2](https://github.com/SyedAfjal/Python-Data-Analysis) - Python | `Pandas`, `NumPy`, `Matplotlib & Seaborn`, `API Requests (requests library)` , `Data Aggregation`|
+| [3](https://github.com/SyedAfjal/file-permission-auditor) - Linux | `File Permissions Management`, `Security Best Practices`, `Bash Scripting`, `Backup and Compression` , `Command-Line Proficiency`|
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
