@@ -2,7 +2,7 @@
 # Hi, I'm Syed!
 💻 I'm a senior at Stony Brook University studying [Technological Systems Management](https://www.stonybrook.edu/undergraduate-admissions/programs/tsm.php).<br/>
 🛡️ I am interested in pursuing opportunities within the IT and cybersecurity fields that allow me to leverage my skillset while continuing to grow and advance my expertise.<br/>
-🔐 I'm currently preparing for the CompTIA Security+ certification and gaining hands-on experience by completing cybersecurity labs on [TryHackMe](https://tryhackme.com/r/p/SyedAfjal)!<br/>
+🔐 I have recently passed the CompTIA Security+ certification and am currently studying for the CompTIA Network+ exam. I'm also gaining hands-on experience by completing cybersecurity labs on [TryHackMe](https://tryhackme.com/r/p/SyedAfjal)!<br/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/SyedAfjal.png" alt="Your Image Badge" />
 
 ## Skills  
